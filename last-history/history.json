@@ -1,0 +1,82 @@
+{
+  "cb4e58acdeea1cfb42b89a42126fbcc4" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "9273bb860dfdda53",
+      "reportUrl" : "https://eszterveress.github.io/cicd-py-example/2//#testresult/9273bb860dfdda53",
+      "status" : "passed",
+      "time" : {
+        "start" : 1625226989346,
+        "stop" : 1625226989346,
+        "duration" : 0
+      }
+    } ]
+  },
+  "8b7d100b89a9b0e22a8d6732c7ee0ba9" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "743a8f2e0d87dbbb",
+      "reportUrl" : "https://eszterveress.github.io/cicd-py-example/2//#testresult/743a8f2e0d87dbbb",
+      "status" : "passed",
+      "time" : {
+        "start" : 1625226989343,
+        "stop" : 1625226989343,
+        "duration" : 0
+      }
+    } ]
+  },
+  "dce78d7dd5962c01ca0a9a6e9bc9920e" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "4a9f4cd1495757eb",
+      "reportUrl" : "https://eszterveress.github.io/cicd-py-example/2//#testresult/4a9f4cd1495757eb",
+      "status" : "passed",
+      "time" : {
+        "start" : 1625226989340,
+        "stop" : 1625226989341,
+        "duration" : 1
+      }
+    } ]
+  },
+  "dcb8fa11fdff83e2daf0e792014a33fe" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "6e0cfde60eb28af6",
+      "reportUrl" : "https://eszterveress.github.io/cicd-py-example/2//#testresult/6e0cfde60eb28af6",
+      "status" : "passed",
+      "time" : {
+        "start" : 1625226989344,
+        "stop" : 1625226989344,
+        "duration" : 0
+      }
+    } ]
+  }
+}
